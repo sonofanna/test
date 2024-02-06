@@ -1,0 +1,17 @@
+Todolistst
+
+add task 
+store task
+remove task
+edit task
+
+
+.................................
+
+
+css setup: margin 0	padding 0 font-family poppins, sans-serif, box sizing:
+			border-box
+
+		background. linear gradient
+
+html f
