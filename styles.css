@@ -16,3 +16,19 @@
 	align-items:center;
 
 }
+
+#top-date{
+	
+	position:relative;
+	height:80%;
+	width:70vw;
+	
+	padding:1%;
+	
+	border:1px solid grey;
+	display:flex;
+	align-items:center;
+	justify-content: space-between;
+	
+	font-size:100%;
+}
